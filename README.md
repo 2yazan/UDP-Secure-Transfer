@@ -18,7 +18,7 @@ This project is a Python-based file transfer application using UDP sockets for r
 
 
 ## Screenshots
-[![Results](media/Results.png)]
+![Results](media/Results.png)
 
 
 ## License
